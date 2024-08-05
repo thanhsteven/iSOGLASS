@@ -1,0 +1,459 @@
+/* --> CSS Base For ALL Site <-- */
+.site-content {
+    margin-bottom: 0px;
+}
+.post-single-page ul {
+	list-style: disc !important;
+}
+.blog-design-mask .article-inner {
+	padding: 0px;
+}
+.wp-caption.aligncenter {
+	text-align: center;
+	margin-inline: 0;
+	width: 100% !important;
+}
+.wp-caption.aligncenter img {
+	border-radius: 12px;
+	width: 100%;
+	object-fit: cover;
+}
+.elementor-widget-container .wd-term-desc ul {
+	list-style: disc;
+}
+.main-page-wrapper {
+    padding-top: 20px;
+}
+.wd-prefooter {
+    padding-bottom: 0px !important;
+}
+.title-size-small .title {
+	text-transform: inherit;
+}
+.wd-product-cats {
+	display: none;
+}
+.meta-categories-wrapp .meta-post-categories a {
+	text-transform: initial;
+}
+.thanh-btn-send-form {
+	border-radius: 8px;
+}
+.promo-banner-wrapper .banner-title {
+	text-transform: none !important;
+}
+
+/* ! Page Hình Ảnh Nổi Bật ! */
+.thanh-ads-title {
+	background-color: #1b212c;
+	color: #f9f1da;
+	border-radius: 12px;
+	padding: 12px 18px;
+	line-height: 28px;
+	letter-spacing: 2px;
+	font-weight: 400;
+}
+.thanh-ads-title span {
+	font-style: italic;
+	font-weight: 100;
+	font-family: none;
+	letter-spacing: 0px;
+}
+.thanh-ads-infox-box .info-box-icon img {
+	border-radius: 12px;
+}
+.thanh-ads-sec-categories .category-grid-item .wd-entities-title {
+	font-size: 12px;
+	color: #333 !important;
+	text-transform: capitalize;
+	background-color: #fff;
+	max-width: 160px;
+    margin: 0 auto;
+    border-radius: 30px;
+    padding: 8px;
+	text-transform: inherit;
+}
+.thanh-ads-sec-title .title-wrapper .title {
+	color: var(--wd-primary-color);
+	font-size: clamp(18px, 24px, 28px);
+	text-transform: uppercase;
+}
+.thanh-ads-sec-title .title-wrapper .title-after_title {
+	font-weight: 600;
+}
+
+/* ! Slideshow For All ! */
+/* --> Slideshow For Homepage & Categories Page <-- */
+.thanh-homepage-section-slideshow .elementor-element-populated {
+    padding: 0px !important;
+}
+.thanh-slideshow-categories-version-2
+    .elementor-widget-heading
+    .elementor-heading-title {
+    margin-bottom: -20px;
+}
+.thanh-slideshow-subtitle-ver-2 {
+    display: block;
+    background-color: #21356e;
+    border-radius: 50px;
+    padding: 4px 16px;
+    padding-top: 10px;
+    width: fit-content !important;
+    margin: 20px auto;
+}
+/* --> Header For ALL Site <-- */
+.whb-header {
+    margin-bottom: 0px !important;
+}
+.thanh-homepage-header-1,
+.thanh-default-header {
+    display: block;
+    margin-top: 26px;
+}
+.thanh-header-hotline-button {
+    margin-top: 20px;
+}
+/* --> Menu item <-- */
+.wd-nav-img {
+    border-radius: 4px;
+}
+.wd-dropdown-menu.wd-design-default {
+    width: 250px;
+}
+span.nav-link-text {
+    text-transform: initial;
+}
+.category-nav-link img {
+	border-radius: 4px;
+}
+/* --> Trang chủ - Home Page <-- */
+/* ! Section - Giới thiệu iSOGLASS */
+.thanh-homepage-section-about-us-image {
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    overflow: hidden;
+}
+.thanh-homepage-section-about-us-content {
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    overflow: hidden;
+}
+/* ! Section - Danh mục nổi bật - Ly thuỷ tinh iSOGLASS */
+.thanh-homepage-section-featured-categories .category-grid-item .hover-mask {
+    background: #333333a3;
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+.thanh-homepage-featured-categories-element
+    .categories-masonry
+    .category-grid-item
+    .hover-mask
+    .more-products {
+    color: #fff;
+    padding-left: 20px;
+    padding-bottom: 6px;
+}
+.thanh-homepage-section-featured-categories
+    .thanh-homepage-featured-categories-element
+    .product-category
+    .wd-entities-title {
+    visibility: hidden;
+    color: #fff;
+    background: #333333a3;
+    padding-left: 20px;
+    padding-top: 12px;
+    width: 100%;
+}
+.thanh-homepage-featured-categories-element
+    .category-grid-item.cat-design-default:hover
+    .wrapp-category
+    .hover-mask
+    .wd-entities-title {
+    visibility: unset !important;
+    transition: all ease-in-out 0.2s;
+}
+/* ! Section - Sản phẩm nổi bật - Chai thuỷ tinh & ly thuỷ tinh ! */
+.thanh-homepage-section-featured-products-banner .elementor-widget-wd_banner {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+}
+/* ! Section - Cảm nhận của khách hàng */
+.elementor-element.elementor-element-48cb8167 .testimonial-inner {
+    height: 290px;
+}
+/* --> Categories Page - Trang Danh mục sản phẩm <-- */
+/* ! Section - Slideshow Chai và Ly thuỷ tinh ! */
+.thanh-slideshow-categories-version-2 .elementor-invisible {
+    visibility: visible;
+}
+/* ! Section - Content Long Description */
+.thanh-term-description .wd-term-desc img {
+	border-radius: 12px;
+}
+.thanh-term-description .wd-term-desc .wp-caption-text {
+	text-align: center;
+}
+/* ! Section - Giải đáp thắc mắc */
+.thanh-term-description {
+    text-align: justify !important;
+}
+.thanh-term-description .wd-term-desc h2,
+.thanh-term-description .wd-term-desc h3 {
+    margin-top: 20px;
+	text-transform: initial;
+}
+.thanh-page-categories-section-anwers-the-question
+    .elementor-widget-wd_accordion
+    .wd-accordion
+    .wd-accordion-content {
+    text-align: justify !important;
+}
+/* --> Product Page - Trang Chi tiết sản phẩm <-- */
+/* ! Tabale Custom CSS ! */
+.thanh-column-table {
+    border-right: 1px solid #eee;
+    border-top: 1px solid #eee;
+    border-bottom: 2px solid #eee;
+    border-left: 2px solid #eee;
+    line-height: 20px;
+    width: 50%;
+}
+.thanh-table-detail {
+    margin-right: 15px;
+}
+/* --> Trang Giới Thiệu - ABout US <-- */
+/* ! TRang Giới Thiệu iSOGLASS - Page About Us ! */
+.thanh-page-about-us-text-justify
+    .elementor-widget-wd_text_block
+    .wd-text-block.text-left {
+    text-align: justify !important;
+}
+.thanh-page-about-us-information-box {
+    height: 420px;
+}
+.thanh-page-about-us-information-box .info-box-wrapper,
+.thanh-page-about-us-information-box .elementor-widget-container,
+.thanh-page-about-us-information-box .info-box-wrapper .wd-info-box {
+    height: 100%;
+}
+.thanh-about-page-section-team-members
+    .wd-carousel-container
+    .owl-carousel
+    .wd-info-box
+    .info-box-icon {
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+/* --> Post For ALL - Trang bài viết chi tiết <-- */
+.post-single-page .meta-post-categories {
+    margin-top: 0px !important;
+}
+/* --> Page Blog - Trang tin tức <-- */
+.thanh-blog-page-blog-element
+    .blog-design-meta-image
+    .wd-post-content
+    .wd-entities-title.post-title {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow-y: hidden;
+}
+.thanh-blog-page-blog-element .wd-post-content .wd-post-entry-meta .wd-post-cat a {
+	text-transform: inherit;
+}
+/* --> Breadcrumbs Yoast Seo <-- */
+.thanh-breadcrumbs-all-site .yoast-breadcrumb :is(a, span) {
+    font-size: 15px;
+    text-transform: inherit;
+    font-weight: 500;
+    color: #002f75;
+}
+.breadcrumb_last {
+	text-transform: initial !important;
+	font-size: 14px !important;
+}
+.yoast-breadcrumb a {
+	text-transform: initial;
+	font-size: 14px !important;
+}
+/* --> Sidebar Hotline Basic ALL <-- */
+.thanh-sidebar-image-telesales .elementor-widget-wd_image_or_svg .wd-image img {
+    border-radius: 100% !important;
+    border: 1px solid #eee;
+}
+/* ! --> Footer Main All Site <-- ! */
+/* --> Footer Column 1 <-- */
+.elementor-icon-list--layout-traditional ul.elementor-icon-list-items {
+	list-style: none;
+}
+/* --> Footer Column 2 <-- */
+.thanh-footer-categories {
+    margin-top: -20px;
+}
+.thanh-footer-categories .widget_nav_mega_menu ul.wd-nav li:first-child {
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+}
+.thanh-footer-categories .widget_nav_mega_menu ul.wd-nav li:last-child {
+    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+.thanh-footer-categories
+    .widget_nav_mega_menu
+    ul.wd-nav
+    li:first-child:hover
+    a.woodmart-nav-link {
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+}
+.thanh-footer-categories
+    .widget_nav_mega_menu
+    ul.wd-nav
+    li:last-child:hover
+    a.woodmart-nav-link {
+    border-bottom-right-radius: var(--wd-brd-radius);
+    border-bottom-left-radius: var(--wd-brd-radius);
+}
+.thanh-footer-categories
+    .widget_nav_mega_menu
+    ul.wd-nav
+    li:hover
+    > a.woodmart-nav-link {
+    color: #002f75 !important;
+    background-color: #c1a887ff;
+}
+.thanh-footer-categories
+    .widget_nav_mega_menu
+    ul.menu
+    li.menu-item
+    a.woodmart-nav-link {
+    color: #fff;
+    border-radius: 0px;
+}
+.thanh-footer-categories .widget_nav_mega_menu ul.menu li.menu-item {
+    border-bottom: 1px solid rgb(191 210 215 / 20%) !important;
+}
+.thanh-footer-categories .menu.wd-nav.wd-nav-vertical.wd-design-default {
+    border: 1px solid rgb(191 210 215 / 20%) !important;
+    border-radius: 0px 0px 12px 12px;
+}
+/* --> Footer Column 5 <-- */
+.thanh-footer-button-download
+    .elementor-widget-wrap.elementor-element-populated,
+.thanh-footer-title-download
+    .elementor-widget-wrap.elementor-element-populated {
+    padding: 0px;
+    height: fit-content;
+}
+.thanh-footer-title-download
+    .elementor-widget-wrap.elementor-element-populated {
+    padding-left: 4px;
+    padding-top: 4px;
+}
+.thanh-footer-button-download .elementor-widget-button .elementor-button-link {
+    display: block;
+}
+.thanh-footer-button-download
+    .elementor-widget-wrap.elementor-element-populated {
+    padding-right: 4px;
+}
+.thanh-footer-button-download
+    .elementor-button-link
+    .elementor-button-content-wrapper {
+    display: block;
+    text-align: center;
+}
+.thanh-footer-button-download .elementor-button-icon.elementor-align-icon-left {
+    margin-right: 0px;
+}
+.thanh-inner-section-follow-us
+    .elementor-container.elementor-column-gap-default,
+.thanh-inner-section-download .elementor-container.elementor-column-gap-default,
+.thanh-inner-section-certificate
+    .elementor-container.elementor-column-gap-default {
+    flex-wrap: wrap;
+}
+.thanh-footer-title-follow-us,
+.thanh-footer-button-social,
+.thanh-footer-title-certificate,
+.thanh-footer-title-logo-certificate {
+    width: 100% !important;
+}
+.thanh-footer-button-social .elementor-widget-wrap.elementor-element-populated {
+    justify-content: flex-start !important;
+    line-height: 46px;
+}
+.thanh-button-footer-social {
+    display: inline-block;
+    width: 20% !important;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.thanh-button-footer-social .wd-button-wrapper .btn.btn-style-default {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border: 1px solid #fff;
+    line-height: 40px;
+    text-align: center;
+    padding: 0;
+    padding-right: 4px;
+}
+.thanh-button-footer-social.elementor-element.elementor-element-69ee4cd {
+	margin-bottom: 10px;
+}
+.thanh-button-footer-social .wd-button-wrapper:hover a.btn.btn-style-default {
+    background-color: #B59D79;
+}
+.thanh-inner-section-download .elementor-container.elementor-column-gap-default,
+.thanh-footer-title-follow-us
+    .elementor-widget-wrap.elementor-element-populated,
+.thanh-footer-title-certificate
+    .elementor-widget-wrap.elementor-element-populated,
+.thanh-footer-title-logo-certificate
+    .elementor-widget-wrap.elementor-element-populated,
+.thanh-footer-button-social .elementor-widget-wrap.elementor-element-populated {
+    padding-left: 31px;
+}
+.thanh-footer-title-logo-certificate
+    .elementor-widget-wrap.elementor-element-populated {
+    flex-wrap: nowrap;
+}
+.thanh-footer-title-logo-certificate .wd-image img {
+    border-radius: 4px;
+}
+.copyrights-wrapper {
+    border-top: 1px solid #fff;
+}
+
+/* Table Single Products */
+.thanh-table-product-detail {
+    display: flex;
+	justify-content: space-between;
+}
+.thanh-table-ul-heading {
+    list-style: none;
+    margin: 0;
+	padding-left: 0;
+	width: 48%;
+}
+.border-bottom-1 {
+	border-bottom: 1px solid #ddd !important;
+}
+.thanh-table-li-item {
+    padding: 12px ;
+    border-top: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20%;
+}
+.thanh-li-value {
+    margin-left: 4rem;
+}
+
+/* Footer chỗ mới */
+.menu-item-15345 .woodmart-nav-link img {
+	display: none !important;
+}

@@ -1,0 +1,7 @@
+.description.column-description {display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow-y: hidden; margin: 0; padding: 0;}
+#wp-admin-bar-wpcode-admin-bar-info {margin-left: 16px !important}
+.taxonomy-woodmart_slider:not(.xts-pages) #edittag .edit-tag-actions,
+.edit-tag-actions {z-index: 100 !important}
+#edittag {width: 100% !important; max-width: 100% !important;}
+.woocommerce-layout__header.is-scrolled {position: absolute !important;}
+#wp-content-editor-tools {background-color: #f0f0f1 !important;}

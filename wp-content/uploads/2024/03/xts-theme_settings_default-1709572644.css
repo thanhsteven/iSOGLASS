@@ -1,0 +1,212 @@
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: "woodmart-font";
+	src: url("//isoglass.com.vn/wp-content/themes/woodmart/fonts/woodmart-font-1-400.woff2?v=7.3.2") format("woff2");
+	font-display:block;
+}
+
+.wd-popup.wd-promo-popup{
+	background-color:#111111;
+	background-image: url(http://isoglass.local/wp-content/uploads/2021/10/alternative-energy-popup.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+}
+
+.page-title-default{
+	background-color:#0a0a0a;
+	background-image: url(https://isoglass.com.vn/wp-content/uploads/2023/09/1920x190_Background-Title.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:inherit;
+	background-position:center center;
+}
+
+.footer-container{
+	background-color:rgb(26,44,117);
+	background-image: none;
+}
+
+:root{
+--wd-text-font:"Inter", Arial, Helvetica, sans-serif;
+--wd-text-font-weight:400;
+--wd-text-color:rgb(51,51,51);
+--wd-text-font-size:16px;
+}
+:root{
+--wd-title-font:"Inter", Arial, Helvetica, sans-serif;
+--wd-title-font-weight:600;
+--wd-title-transform:inherit;
+--wd-title-color:rgb(51,51,51);
+}
+:root{
+--wd-entities-title-font:"Inter", Arial, Helvetica, sans-serif;
+--wd-entities-title-font-weight:600;
+--wd-entities-title-transform:inherit;
+--wd-entities-title-color:#333333;
+--wd-entities-title-color-hover:rgb(30, 115, 190);
+}
+:root{
+--wd-alternative-font:"Inter", Arial, Helvetica, sans-serif;
+}
+:root{
+--wd-widget-title-font:"Inter", Arial, Helvetica, sans-serif;
+--wd-widget-title-font-weight:600;
+--wd-widget-title-transform:inherit;
+--wd-widget-title-color:#333;
+--wd-widget-title-font-size:16px;
+}
+:root{
+--wd-header-el-font:"Inter", Arial, Helvetica, sans-serif;
+--wd-header-el-font-weight:500;
+--wd-header-el-transform:inherit;
+--wd-header-el-font-size:18px;
+}
+:root{
+--wd-primary-color:rgb(0,47,117);
+}
+:root{
+--wd-alternative-color:rgb(153,168,161);
+}
+:root{
+--wd-link-color:rgb(17,85,204);
+--wd-link-color-hover:rgb(191,210,215);
+}
+:root{
+--btn-default-font-family:"Inter", Arial, Helvetica, sans-serif;
+--btn-default-font-weight:500;
+--btn-default-transform:inherit;
+}
+:root{
+--btn-default-bgcolor:rgb(0,47,117);
+}
+:root{
+--btn-default-bgcolor-hover:rgb(62,135,237);
+}
+:root{
+--btn-accented-font-family:"Inter", Arial, Helvetica, sans-serif;
+--btn-accented-font-weight:500;
+--btn-accented-transform:inherit;
+}
+:root{
+--btn-accented-bgcolor:rgb(36,54,112);
+}
+:root{
+--btn-accented-bgcolor-hover:rgb(30,115,190);
+}
+html .wpcf7 input[type="submit"]{
+	font-family: "Inter", Arial, Helvetica, sans-serif;font-weight: 400;font-size: 16px;text-transform: capitalize;color: rgb(255,255,255);background: #002f75ff;
+}
+
+html .wpcf7 input[type="submit"]:hover{
+	color: rgb(5,31,77);background: rgb(191,210,214);
+}
+
+html .mc4wp-form input[type="submit"]{
+	font-family: "Inter", Arial, Helvetica, sans-serif;font-weight: 500;font-size: 16px;text-transform: inherit;color: rgb(255,255,255);background: rgb(0,47,117);
+}
+
+html .mc4wp-form input[type="submit"]:hover{
+	color: #fff;background: rgb(191,210,214);
+}
+
+:root{
+--notices-success-bg:#459647;
+}
+:root{
+--notices-success-color:#fff;
+}
+:root{
+--notices-warning-bg:#E0B252;
+}
+:root{
+--notices-warning-color:#fff;
+}
+
+	:root{
+					
+							--wd-form-brd-radius: 5px;
+			
+					
+					--wd-form-brd-width: 1px;
+		
+					--btn-default-color: #fff;
+		
+					--btn-default-color-hover: #fff;
+		
+					--btn-accented-color: #fff;
+		
+					--btn-accented-color-hover: #fff;
+		
+					
+			
+			
+							--btn-default-brd-radius: 5px;
+				--btn-default-box-shadow: none;
+				--btn-default-box-shadow-hover: none;
+					
+					
+			
+			
+							--btn-accented-brd-radius: 5px;
+				--btn-accented-box-shadow: none;
+				--btn-accented-box-shadow-hover: none;
+					
+							
+					--wd-brd-radius: 12px;
+		
+			}
+
+	
+	
+			:root{
+			--wd-container-w: 1222px;
+		}
+	
+			@media (min-width: 1239px) {
+			.platform-Windows .wd-section-stretch > .elementor-container {
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+		@media (min-width: 1222px) {
+			html:not(.platform-Windows) .wd-section-stretch > .elementor-container {
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+	
+			div.wd-popup.popup-quick-view {
+			max-width: 920px;
+		}
+	
+	
+	
+	
+			.woodmart-woocommerce-layered-nav .wd-scroll-content {
+			max-height: 223px;
+		}
+	
+	
+@font-face {
+	font-family: "Manrope3";
+	font-weight: 100;
+	font-display:block;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Manrope3";
+	font-weight: 600;
+	font-display:block;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Manrope3";
+	font-weight: 400;
+	font-display:block;
+	font-style: normal;
+}
+

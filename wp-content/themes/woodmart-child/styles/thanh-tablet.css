@@ -1,0 +1,305 @@
+@media screen and (max-width: 830px) {
+    /* --> Header <-- */
+    .wd-logo img {
+        width: 100%;
+    }
+    .site-content {
+        padding: 0px;
+    }
+    /* --> Homepage - Slideshow <-- */
+    .wd-slider-wrapper:not([class*="wd-section-stretch"]) .wd-slider {
+        border-radius: unset;
+    }
+    .flickity-button.previous {
+        left: 2%;
+    }
+    .flickity-button.next {
+        right: 2%;
+    }
+    .elementor-invisible {
+        visibility: unset;
+    }
+    /* --> Homepage - Section Heading 2 <--  */
+    .thanh-homepage-heading-2
+        .elementor-widget-wrap.elementor-element-populated {
+        padding: 20px 65px;
+    }
+    .thanh-homepage-heading-2 {
+        margin-bottom: 0px;
+    }
+    .thanh-homepage-section-about-us-content
+        .elementor-widget-wrap.elementor-element-populated {
+        padding: 20px 30px 20px 15px !important;
+    }
+    .thanh-homepage-section-about-us {
+        padding: 0px !important;
+    }
+    .thanh-homepage-section-about-us
+        .elementor-element.elementor-element-1051758 {
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+    }
+    .thanh-homepage-section-about-us
+        .elementor-element.elementor-element-1051758 {
+        padding: 20px 0px;
+    }
+    .thanh-homepage-section-about-us-content
+    .elementor-widget-wd_text_block .wd-text-block blockquote,
+    .thanh-homepage-section-about-us-content .elementor-widget-wd_text_block .wd-text-block {
+        text-align: justify !important;
+    }
+    .thanh-homepage-why-choose-us-image .elementor-widget-wd_image_or_svg {
+        margin-bottom: 0px;
+    }
+    .thanh-homepage-why-choose-us-image .elementor-element-populated {
+        padding: 0px;
+    }
+    .thanh-homepage-why-choose-us-image .elementor-widget-wd_image_or_svg img {
+        margin-bottom: -50px;
+        border-radius: 0px;
+    }
+    /* --> Page About Us - Giá trị cốt lõi <-- */
+    .thanh-about-us-section-gia-tri-cot-loi
+    .elementor-widget-wd_infobox_carousel
+        .wd-carousel-container
+        .owl-carousel
+        .info-box-wrapper
+        .wd-info-box {
+        height: 420px;
+    }
+
+    /* --> Main Title <-- */
+    .elementor-element.elementor-element-8f75ae8 .elementor-heading-title,
+    .elementor-element.elementor-element-147c7ed .elementor-heading-title,
+    .elementor-element.elementor-element-6fbb0b6 .elementor-heading-title,
+    .elementor-element.elementor-element-cc21a5d .elementor-heading-title
+    .elementor-element.elementor-element-abd9e69 .elementor-heading-title {
+        text-align: center !important;
+    }
+    .elementor-element.elementor-element-947169e .elementor-heading-title,
+    .elementor-element.elementor-element-7e53c99 .elementor-heading-title {
+        background-color: #243670;
+        padding: 8px 12px;
+        border-radius: 50px;
+    }
+    /* --> Text Center <-- */
+    .elementor-element.elementor-element-7e53c99,
+    .elementor-element.elementor-element-5aa916b .wd-text-block,
+    .elementor-element.elementor-element-2d89584 .elementor-heading-title {
+        text-align: center !important;
+    }
+    /* Padding 15px */
+    .elementor-element.elementor-element-7161cd85 .elementor-widget-wrap.elementor-element-populated,
+    .elementor-element.elementor-element-a2d3022 .elementor-widget-container,
+    .elementor-element.elementor-element-5ef37b34 .elementor-container.elementor-column-gap-default,
+    .elementor-element.elementor-element-2f0e28ac .elementor-container.elementor-column-gap-default,
+    .elementor-element.elementor-element-7d6da25 .elementor-container.elementor-column-gap-default,
+    .elementor-element.elementor-element-bd20f39 .elementor-element-populated,
+    .thanh-danh-muc-noi-batj-ly-thuy-tinh .elementor-widget-container,
+    .elementor-element.elementor-element-2f6269d8 .elementor-widget-container {
+        padding: 0px 15px;
+    }
+    .thanh-inner-section-certificate {
+        margin-top: 20px !important;
+    }
+    
+    .elementor-element.elementor-element-3e5aa0b,
+    .elementor-element.elementor-element-06e6e8a {
+        padding-right: 30px;
+    }
+    .categories-style-masonry-first .product-category:first-child {
+        padding: 0px 25px;
+        padding-left: 16px;
+    }
+    .star-rating {
+        display: none;
+    }
+    .elementor-element.elementor-element-861d158
+        .elementor-widget-wrap.elementor-element-populated {
+        padding-left: 20px;
+    }
+    .elementor-element.elementor-element-9ae70bc {
+        margin-bottom: 0px !important;
+    }
+    .thanh-padding-footer-mobile .elementor-element-populated {
+        padding-top: 40px;
+    }
+    
+    .elementor-element.elementor-element-c64ca12
+        .elementor-widget-container
+        .info-box-wrapper
+        .info-box-inner,
+    .elementor-element.elementor-element-3878064
+        .elementor-widget-container
+        .info-box-wrapper
+        .info-box-inner,
+    .elementor-element.elementor-element-ac30ae6
+        .elementor-widget-container
+        .info-box-wrapper
+        .info-box-inner {
+        text-align: justify;
+    }
+
+    /* --> Homepage - Section Danh mục Chai thuỷ tinh <-- */
+    .thanh-homepage-section-featured-categories .thanh-homepage-featured-categories-element .product-category .wd-entities-title {
+        visibility: visible;
+        background: unset;
+    }
+    .elementor-element.elementor-element-24665afc {
+        padding-bottom: 0px !important;
+    }
+
+    .elementor-element.elementor-element-7061d24 {
+        width: 100% !important;
+        margin: 0 20px;
+    }
+    .elementor-element.elementor-element-5b96afe {
+        width: 100% !important;
+        margin: 20px 20px 0px 20px;
+    }
+    .thanh-footer-column-2 {
+        width: 40% !important;
+    }
+    .elementor-element.elementor-element-eb6e593 {
+        margin-bottom: 0px !important;
+    }
+    .page-title .title-blog {
+        margin-bottom: 20px !important;
+    }
+    /* --> Main Footer Logo <-- */
+    .elementor-element.elementor-element-615a3705 .wd-image > img {
+        width: 50% !important;
+    }
+    .elementor-element.elementor-element-615a3705
+        .elementor-widget-wrap
+        .elementor-element-populated {
+        padding: 0px 20px;
+    }
+    .elementor-element.elementor-element-615a3705 {
+        width: 95% !important;
+        margin: 0 auto;
+    }
+    .elementor-element.elementor-element-6c435561 .elementor-widget-container {
+        padding: 0px 15px;
+    }
+    .thanh-footer-column-2 {
+        width: 33.33% !important;
+    }
+    .elementor-column.elementor-col-66.elementor-element.elementor-element-efdc43e {
+        width: 100% !important;
+    }
+    .thanh-inner-section-download {
+        width: 50% !important;
+        padding-top: 0px !important;
+    }
+    .elementor-element.elementor-element-b78137b {
+        width: 100%;
+        margin-bottom: 12px;
+    }
+    .elementor-element.elementor-element-407c87d {
+        width: 100% !important;
+        order: 2;
+    }
+    .elementor-element.elementor-element-cd217a8 .elementor-button {
+        width: 90%;
+        text-align: left;
+    }
+    .elementor-element.elementor-element-5fe1f52,
+    .elementor-element.elementor-element-9e148d0 {
+        width: 50%;
+    }
+    .elementor-element.elementor-element-9e148d0 {
+        width: 30%;
+    }
+    /* --> Page About Us <-- */
+    .elementor-element.elementor-element-cb628dc,
+    .elementor-element.elementor-element-b1132a0 {
+        width: 100% !important;
+    }
+    .thanh-page-about-us-text-justify,
+    .elementor-element.elementor-element-1b5b0ef {
+        margin-top: -30px;
+    }
+    .elementor-element.elementor-element-cb628dc
+        .elementor-reverse-tablet
+        .elementor-container:first-child {
+        order: 9 !important;
+    }
+    .elementor-element.elementor-element-987a71c .elementor-heading-title,
+    .elementor-element.elementor-element-f264046 .elementor-heading-title,
+    .elementor-element.elementor-element-8b2ddc8 .elementor-heading-title {
+        text-align: left;
+    }
+    .elementor-element.elementor-element-2dc18d2  {
+        margin-top: 40px;
+    }
+    .elementor-element.elementor-element-77f83de .elementor-container {
+        padding: 0px 15px;
+    }
+    .thanh-page-about-us-text-justify .elementor-widget-wrap.elementor-element-populated {
+        padding-left: 0px !important;
+    }
+    /* Footer */
+    .elementor-element.elementor-element-5fe1f52
+        .elementor-container.elementor-column-gap-default {
+        display: inline-block;
+    }
+    .elementor-element.elementor-element-5fe1f52
+        .elementor-container.elementor-column-gap-default {
+        width: 100%;
+    }
+    .elementor-element.elementor-element-cb7b80b {
+        width: 100%;
+    }
+    .elementor-element.elementor-element-cd217a8.elementor-widget-button {
+        text-align: left;
+    }
+    .elementor-element.elementor-element-8904c5e {
+        width: 100%;
+    }
+    .elementor-element.elementor-element-c207556,
+    .elementor-element.elementor-element-9497a77 {
+        width: 40%;
+    }
+    .elementor-818 .elementor-element.elementor-element-eb2488e {
+        width: 90% !important;
+    }
+    .elementor-element.elementor-element-a08b22f .title-wrapper .liner-continer,
+    .elementor-element.elementor-element-460a876
+        .title-wrapper
+        .liner-continer {
+        text-align: center !important;
+        margin-bottom: 12px;
+    }
+    .elementor-element.elementor-element-b78137b
+        .elementor-widget-container
+        .elementor-heading-title,
+    .elementor-element.elementor-element-460a876
+        .elementor-widget-container
+        .elementor-heading-title,
+    .elementor-element.elementor-element-460a876
+        .elementor-widget-container
+        .elementor-heading-title {
+        text-align: center;
+    }
+    .elementor-element.elementor-element-f2e2381 {
+        width: 100% !important;
+        margin-top: 25px;
+    }
+    .elementor-element.elementor-element-f2e2381
+        .elementor-widget-wrap.elementor-element-populated {
+        padding: 0 2.5%;
+    }
+    .elementor-element.elementor-element-5d9de39.elementor-column.elementor-element[data-element_type="column"]
+        .elementor-widget-wrap.elementor-element-populated {
+        padding-left: 10%;
+    }
+    .elementor-element.elementor-element-f2e2381
+        .elementor-widget-wrap.elementor-element-populated {
+        justify-content: center;
+    }
+    .elementor-element.elementor-element-3eb7176
+        .elementor-container.elementor-column-gap-default {
+        padding: 0px 15px !important;
+    }
+}

@@ -1,0 +1,51 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-admin
+
+Disallow: /author/admin
+Disallow: /author/admin/
+
+Disallow: /author/content
+Disallow: /author/content/
+
+Disallow: /shop
+Disallow: /shop/
+Disallow: /shop.html
+
+Disallow: /category/tin-tuc-isoglass
+Disallow: /category/tin-tuc-isoglass/
+Disallow: /category/tin-tuc-isoglass.html
+
+Disallow: /tin-tuc-isoglass
+Disallow: /tin-tuc-isoglass.html
+Disallow: /tin-tuc-isoglass/
+
+Disallow: /cms_block_cat/trang-gioi-thieu
+Disallow: /cms_block_cat/trang-gioi-thieu.html
+
+Disallow: /cms_block_cat
+Disallow: /cms_block_cat/hop-chai-ruou
+
+Disallow: /portfolio-tac-gia
+Disallow: /portfolio-tac-gia.html
+
+Disallow: /portfolio-tac-gia/feed/
+Disallow: /portfolio-tac-gia/feed
+Disallow: /portfolio-tac-gia/feed.html
+
+Disallow: /shop/feed/
+Disallow: /shop/feed
+Disallow: /shop/feed.html
+
+Disallow: /category/in-logo-ly-thuy-tinh
+Disallow: /category/in-logo-ly-thuy-tinh/
+Disallow: /category/in-logo-ly-thuy-tinh.html
+
+Disallow: /blog-in-logo-ly-thuy-tinh
+Disallow: /blog-in-logo-ly-thuy-tinh/
+Disallow: /blog-in-logo-ly-thuy-tinh.html
+
+
+Allow: /
+Sitemap: https://isoglass.com.vn/sitemap_index.xml
+Sitemap: https://isoglass.com.vn/sitemap.xml

@@ -1,0 +1,558 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Permalink Manager\n"
+"POT-Creation-Date: 2021-07-29 16:36+0300\n"
+"PO-Revision-Date: 2021-07-29 16:37+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: freemius\n"
+"X-Poedit-SearchPathExcluded-1: build\n"
+
+#: src/Addons/BreadcrumbsAddon.php:64
+msgid "Home"
+msgstr "Accueil"
+
+#: src/Addons/BreadcrumbsAddon.php:67
+msgid "Shop"
+msgstr "Boutique"
+
+#: src/Admin/Admin.php:151 src/Admin/Admin.php:152
+msgid "Permalink Manager"
+msgstr "Permalink Manager"
+
+#: src/Admin/Admin.php:197
+msgid "Settings"
+msgstr "Paramètres"
+
+#: src/Admin/Admin.php:198
+msgid "Bundle and Save"
+msgstr "Regroupement et économies"
+
+#: src/Admin/Admin.php:199 src/Admin/AffiliateTab.php:30
+msgid "Affiliate"
+msgstr ""
+
+#: src/Admin/Admin.php:204
+msgid "Account"
+msgstr "Compte"
+
+#: src/Admin/Admin.php:206
+msgid "Contact Us"
+msgstr "Nous contacter"
+
+#: src/Admin/Admin.php:279
+#, php-format
+msgid ""
+"Please rate our Premmerce Permalink Manager for WooCommerce on <a href=\"%1$s"
+"\" %2$s>WordPress.org</a><br/>Thank you from the Premmerce team!"
+msgstr ""
+
+#: src/Admin/BundleAndSave.php:91
+msgid "Bundle & Save"
+msgstr "Regroupement et économies"
+
+#: src/Admin/Settings.php:36
+msgid "Categories"
+msgstr "Catégories"
+
+#: src/Admin/Settings.php:41
+msgid "Products"
+msgstr "Produits"
+
+#: src/Admin/Settings.php:46
+msgid "SKU"
+msgstr "SKU"
+
+#: src/Admin/Settings.php:51
+msgid "Additional"
+msgstr "Supplémentaire"
+
+#: src/Admin/Settings.php:56
+msgid "URL's suffix"
+msgstr "Suffixe de l'URL"
+
+#: src/UrlManagerPlugin.php:130
+#, php-format
+msgid "The %s plugin requires %s plugin to be active!"
+msgstr "Le plugin %s nécessite que le plugin %s soit actif !"
+
+#: views/admin/banner.php:15 views/admin/banner.php:18
+msgid "Premmerce WooCommerce Product Filter Premium"
+msgstr "Premmerce WooCommerce Product Filter Premium"
+
+#: views/admin/banner.php:21
+msgid ""
+"Get clean URLs and additional Pro SEO settings for your Filter pages with "
+"Premmerce WooCommerce Filter Premium for only $69!"
+msgstr ""
+"Obtenez des URLs propres et des paramètres Pro SEO supplémentaires pour vos "
+"pages de filtre avec Premmerce WooCommerce Filter Premium pour seulement $69!"
+
+#: views/admin/banner.php:32
+msgid "Get it now"
+msgstr "Achetez-le maintenant"
+
+#: views/admin/main.php:8
+msgid "WooCommerce Permalink Settings"
+msgstr "Paramètres du Permalink de WooCommerce"
+
+#: views/admin/main.php:24
+msgid "Upgrate to Premium"
+msgstr ""
+
+#: views/admin/section/additional.php:36
+msgid "Remove product tag base"
+msgstr "Retirer la base de l'étiquette du produit"
+
+#: views/admin/section/additional.php:42 views/admin/section/additional.php:82
+#: views/admin/section/additional.php:100
+#: views/admin/section/additional.php:120 views/admin/section/sku.php:62
+#: views/admin/section/suffix.php:51 views/admin/section/suffix.php:72
+#: views/admin/section/suffix.php:112
+msgid "Available only in premium version"
+msgstr "Disponible uniquement dans la version premium"
+
+#: views/admin/section/additional.php:53
+msgid "Use primary category"
+msgstr "Utiliser la catégorie primaire"
+
+#: views/admin/section/additional.php:56
+msgid "Use 'Yoast SEO' primary category to build product path"
+msgstr ""
+"Utilisez la catégorie primaire de \"Yoast SEO\" pour créer un chemin d'accès "
+"aux produits"
+
+#: views/admin/section/additional.php:65
+msgid "Add canonicals"
+msgstr "Ajouter des canoniques"
+
+#: views/admin/section/additional.php:68
+msgid "Add canonical meta tag to duplicated pages"
+msgstr "Ajouter une balise méta canonique aux pages dupliquées"
+
+#: views/admin/section/additional.php:76
+msgid "Create redirects"
+msgstr "Créer des redirections"
+
+#: views/admin/section/additional.php:85
+msgid "Create 301 redirect from duplicated pages"
+msgstr "Créer une redirection 301 à partir de pages dupliquées"
+
+#: views/admin/section/additional.php:94
+msgid "Support breadcrumbs"
+msgstr "Support du fil d'Ariane"
+
+#: views/admin/section/additional.php:103
+msgid "Enable breadcrumbs support"
+msgstr "Activer le support du fil d'Ariane"
+
+#: views/admin/section/additional.php:113
+msgid "Remove Shop"
+msgstr "Supprimer la boutique"
+
+#: views/admin/section/additional.php:123
+msgid "Remove \"Shop\" from breadcrumbs"
+msgstr "Supprimer \"Shop\" du fil d'Ariane"
+
+#: views/admin/section/category.php:17 views/admin/section/product.php:18
+#: views/admin/section/sku.php:45
+msgid "Use WooCommerce settings"
+msgstr "Utiliser les paramètres de WooCommerce"
+
+#: views/admin/section/category.php:26
+msgid "Category slug"
+msgstr "Nom de la catégorie"
+
+#: views/admin/section/category.php:38
+msgid "Full category path"
+msgstr "Chemin de la catégorie complète"
+
+#: views/admin/section/product.php:29
+msgid "Product slug"
+msgstr "Contenu du produit"
+
+#: views/admin/section/product.php:41
+msgid "Product slug with primary category"
+msgstr "Le slug du produit avec la catégorie primaire"
+
+#: views/admin/section/product.php:53
+msgid "Full product path"
+msgstr "Chemin complet du produit"
+
+#: views/admin/section/sku.php:56
+msgid "Replace product slug"
+msgstr "Remplacer le bouchon du produit"
+
+#: views/admin/section/suffix.php:54
+msgid "Specify suffix for your urls. For example "
+msgstr "Spécifiez un suffixe pour vos urls. Par exempl "
+
+#: views/admin/section/suffix.php:66
+msgid "Enable for products"
+msgstr "Activation pour les produits"
+
+#: views/admin/section/suffix.php:106
+msgid "Enable for categories"
+msgstr "Activation pour les catégories"
+
+#: views/admin/tabs/bundle-and-save/faq.php:11
+msgid "How does the domain limit work?"
+msgstr "Comment fonctionne la limite de domaine ?"
+
+#: views/admin/tabs/bundle-and-save/faq.php:12
+msgid ""
+"Once you choose a plan, you get access to the products described in the "
+"package and a specific number of domain licenses. You can activate any of "
+"the premium products (themes or plugins) on the domains where you have an "
+"active license."
+msgstr ""
+"Une fois que vous avez choisi un plan, vous avez accès aux produits décrits "
+"dans le paquet et à un nombre spécifique de licences de domaine. Vous pouvez "
+"activer n'importe quel produit premium (thèmes ou plugins) sur les domaines "
+"pour lesquels vous disposez d'une licence active."
+
+#: views/admin/tabs/bundle-and-save/faq.php:15
+msgid "What will happen if I if I don’t renew my license in a year?"
+msgstr "Que se passera-t-il si je ne renouvelle pas ma licence dans un an ?"
+
+#: views/admin/tabs/bundle-and-save/faq.php:16
+msgid ""
+"Your domain license will become invalid in 12 months period. The product "
+"will continue to work.However, after your license expires, the access to "
+"security updates, support requests, and new features is discontinued until "
+"the new license is activated. For lifetime membership this is not the case, "
+"only for the annual plans."
+msgstr ""
+"Votre licence de domaine deviendra invalide dans une période de 12 mois. "
+"Cependant, après l'expiration de votre licence, l'accès aux mises à jour de "
+"sécurité, aux demandes d'assistance et aux nouvelles fonctionnalités est "
+"interrompu jusqu'à l'activation de la nouvelle licence. Ce n'est pas le cas "
+"pour l'adhésion à vie, mais seulement pour les plans annuels."
+
+#: views/admin/tabs/bundle-and-save/faq.php:19
+msgid "How often do I have to pay?"
+msgstr "À quelle fréquence dois-je payer ?"
+
+#: views/admin/tabs/bundle-and-save/faq.php:20
+msgid ""
+"With the annual membership, you will have to renew after the first year if "
+"you want to continue receiving security updates and support. The product "
+"will continue to work even if you cancel immediately, but you won’t get the "
+"updates and support after the license expires. You are free to upgrade/"
+"cancel anytime. Lifetime is a one-time payment, and as long as the product "
+"is maintained, you will get support and security updates."
+msgstr ""
+"Avec l'abonnement annuel, vous devrez renouveler votre abonnement après la "
+"première année si vous voulez continuer à recevoir les mises à jour de "
+"sécurité et le support. Le produit continuera à fonctionner même si vous "
+"annulez immédiatement, mais vous ne bénéficierez plus des mises à jour et du "
+"support après l'expiration de la licence. Vous êtes libre de mettre à niveau/"
+"annuler à tout moment. Le paiement à vie est un paiement unique. Tant que le "
+"produit est maintenu, vous bénéficiez du support et des mises à jour de "
+"sécurité."
+
+#: views/admin/tabs/bundle-and-save/faq.php:23
+msgid "Do you offer refunds?"
+msgstr "Offrez-vous des remboursements ?"
+
+#: views/admin/tabs/bundle-and-save/faq.php:24
+msgid ""
+"Yes, if you have an issue that cannot be resolved via our support service "
+"within 14 days from the purchase date, you will be offered a full refund."
+msgstr ""
+"Yes, if you have an issue that cannot be resolved via our support service "
+"within 14 days from the purchase date, you will be offered a full refund."
+
+#: views/admin/tabs/bundle-and-save/faq.php:27
+msgid "Will my subscription renew automatically?"
+msgstr "Mon abonnement sera-t-il renouvelé automatiquement ?"
+
+#: views/admin/tabs/bundle-and-save/faq.php:28
+msgid ""
+"Yes, your subscription will renew automatically every year, until its "
+"cancellation."
+msgstr ""
+"Oui, votre abonnement sera renouvelé automatiquement chaque année, jusqu'à "
+"son annulation."
+
+#: views/admin/tabs/bundle-and-save/faq.php:31
+msgid "Can I use my licence in a development environment?"
+msgstr "Puis-je utiliser ma licence dans un environnement de développement ?"
+
+#: views/admin/tabs/bundle-and-save/faq.php:32
+msgid ""
+"Yes. Most development environments will not count towards your site limit."
+msgstr ""
+"Oui. La plupart des environnements de développement ne seront pas pris en "
+"compte dans la limite de votre site."
+
+#: views/admin/tabs/bundle-and-save/faq.php:35
+msgid "How do I download the plugins?"
+msgstr "Comment télécharger les plugins ?"
+
+#: views/admin/tabs/bundle-and-save/faq.php:36
+msgid ""
+"Once you place your order, you'll be sent an email containing the download "
+"links to all the purchased plugins and themes."
+msgstr ""
+"Une fois votre commande passée, vous recevrez un courriel contenant les "
+"liens de téléchargement de tous les plugins et thèmes achetés."
+
+#: views/admin/tabs/bundle-and-save/faq.php:39
+msgid "How much money am I saving with a Premmerce Suite bundle?"
+msgstr ""
+"Combien d'argent est-ce que j'économise avec une offre groupée de Premmerce "
+"Suite ?"
+
+#: views/admin/tabs/bundle-and-save/faq.php:40
+msgid ""
+"You will save at least 70% when you buy a bundle. This percentage is even "
+"higher if you opt to pay annually."
+msgstr ""
+"Vous économisez au moins 70 % lorsque vous achetez un forfait. Ce "
+"pourcentage est encore plus élevé si vous optez pour un paiement annuel."
+
+#: views/admin/tabs/bundle-and-save/faq.php:43
+msgid ""
+"Are there any hidden fees and what do we have to pay for after the project "
+"has been delivered?"
+msgstr ""
+"Y a-t-il des frais cachés et que devons-nous payer après la livraison du "
+"projet ?"
+
+#: views/admin/tabs/bundle-and-save/faq.php:44
+msgid ""
+"There are no hidden or recurring charges to be paid after a project "
+"delivery. However, you need a hosting platform and a domain name for your "
+"website which are usually paid on a regular basis. You can buy them from our "
+"company or elsewhere. The most important thing is that your hosting platform "
+"must adhere to our software minimal requirements."
+msgstr ""
+"Il n'y a pas de frais cachés ou récurrents à payer après la livraison d'un "
+"projet. Cependant, vous avez besoin d'une plateforme d'hébergement et d'un "
+"nom de domaine pour votre site web, qui sont généralement payés de manière "
+"régulière. Vous pouvez les acheter auprès de notre société ou ailleurs. La "
+"chose la plus importante est que votre plateforme d'hébergement doit "
+"respecter les exigences minimales de notre logiciel."
+
+#: views/admin/tabs/bundle-and-save/faq.php:53
+msgid ""
+"If you have any further questions, don’t hesitate to ask us via the online "
+"chat or by e-mail"
+msgstr ""
+"Si vous avez d'autres questions, n'hésitez pas à nous les poser via le chat "
+"en ligne ou par e-mail"
+
+#: views/admin/tabs/bundle-and-save/featured-in.php:37
+msgid "Featured in"
+msgstr "En vedette dans"
+
+#: views/admin/tabs/bundle-and-save/pricing.php:87
+msgid "Buy now"
+msgstr "Acheter maintenant"
+
+#: views/admin/tabs/bundle-and-save/pricing.php:106
+msgid "Annual"
+msgstr "Annuel"
+
+#: views/admin/tabs/bundle-and-save/pricing.php:109
+msgid "Lifetime"
+msgstr "À vie"
+
+#: views/admin/tabs/bundle-and-save/testimonials.php:8
+msgid ""
+"Great, free, useful plugin if you want your category link to be yourURL/"
+"category name and product link to be yourURL/product-name. Even skips parent "
+"category names. Thank you so much!"
+msgstr ""
+"Plugin génial, gratuit et utile si vous voulez que votre lien de catégorie "
+"soit votreURL/nom de catégorie et que le lien de produit soit votreURL/nom "
+"de produit. Il ignore même les noms des catégories parentes. Merci beaucoup !"
+
+#: views/admin/tabs/bundle-and-save/testimonials.php:13
+msgid ""
+"THi All, We us this plugin for a big website we run. This plugin works with "
+"the famous WPML plugin. It’s removes the Product category base and the shop "
+"link in a Multilingual website. Must have for all WooCommerce users!!! "
+"Regards from a satisfied user."
+msgstr ""
+"Hi All, Nous utilisons ce plugin pour un grand site web que nous gérons. Ce "
+"plugin fonctionne avec le célèbre plugin WPML. Il supprime la base de la "
+"catégorie de produit et le lien de la boutique dans un site multilingue. Un "
+"must pour tous les utilisateurs de WooCommerce ! !! Salutations d'un "
+"utilisateur satisfait."
+
+#: views/admin/tabs/bundle-and-save/testimonials.php:18
+msgid ""
+"The Premmerce Filter is BY FAR the best product filter plugin available for "
+"WordPress. It works well out of the box with a great layout. It’s something "
+"that you would think would be so simple, but finding a great product filter "
+"tool sure wasn’t easy. Really love how well it integrates with the Premmerce "
+"Brands plugin as well. Thanks!!"
+msgstr ""
+"The Premmerce Filter est de loin le meilleur plugin de filtre de produits "
+"disponible pour WordPress. Il fonctionne bien en dehors de la boîte avec une "
+"grande mise en page. C'est quelque chose que l'on pourrait penser être si "
+"simple, mais trouver un excellent outil de filtrage de produits n'a pas été "
+"facile. J'aime beaucoup la façon dont il s'intègre avec le plugin Premmerce "
+"Brands. Merci !"
+
+#: views/admin/tabs/bundle-and-save/testimonials.php:28
+msgid "What clients say about Premmerce"
+msgstr "Ce que les clients disent de Premmerce"
+
+#: views/admin/tabs/bundle-and-save/texts.php:9
+msgid "Permalink Manager Plugin"
+msgstr "Plugin Permalink Manager"
+
+#: views/admin/tabs/bundle-and-save/texts.php:10
+msgid ""
+"Allows you to configure URL generation strategy for your WooCommerce based "
+"store. Removing /product-category base from URL. Able to generate a product "
+"category URL in such a way that only its slug can be seen, removing all the "
+"prefixes from URL, leaving just the category or product name, and automatic "
+"adds of the ‘rel=canonical’ attribute to duplicate pages for SEO ranking "
+"improving."
+msgstr ""
+"Permet de configurer la stratégie de génération d'URL pour votre boutique "
+"basée sur WooCommerce. Suppression de la base /product-category de l'URL. "
+"Capable de générer une URL de catégorie de produit de telle sorte que seul "
+"son slug puisse être vu, en supprimant tous les préfixes de l'URL, ne "
+"laissant que le nom de la catégorie ou du produit, et en ajoutant "
+"automatiquement l'attribut 'rel=canonical' aux pages dupliquées pour "
+"améliorer le classement SEO."
+
+#: views/admin/tabs/bundle-and-save/texts.php:16
+msgid "Product Filter Plugin"
+msgstr "Plugin Product Filter"
+
+#: views/admin/tabs/bundle-and-save/texts.php:17
+msgid ""
+"Is a convenient and flexible tool for managing filters for WooCommerce "
+"products. Among the main features of this plugin there is a single widget "
+"that manages the display of all available filters. Comparing to the standard "
+"WooCommerce filters, Premmerce WooCommerce Product Filter has a well thought "
+"out caching system for the load speed improving."
+msgstr ""
+"Est un outil pratique et flexible pour gérer les filtres pour les produits "
+"WooCommerce. Parmi les principales fonctionnalités de ce plugin, il y a un "
+"widget unique qui gère l'affichage de tous les filtres disponibles. Par "
+"rapport aux filtres standard de WooCommerce, Premmerce WooCommerce Product "
+"Filter a un système de cache bien pensé pour améliorer la vitesse de "
+"chargement."
+
+#: views/admin/tabs/bundle-and-save/texts.php:23
+msgid "Variation Swatches Plugin"
+msgstr "Plugin Variation Swatches"
+
+#: views/admin/tabs/bundle-and-save/texts.php:24
+msgid ""
+"Flexibly extends standard features of the WooCommerce attributes and "
+"variations.The ability to highlight the main attributes and display them on "
+"the product category page and possibility to add a description to the "
+"attribute. The ability to add a product variation to the cart directly on "
+"the product category page."
+msgstr ""
+"La possibilité de mettre en évidence les principaux attributs et de les "
+"afficher sur la page de la catégorie du produit et la possibilité d'ajouter "
+"une description à l'attribut. La possibilité d'ajouter une variation de "
+"produit au panier directement sur la page de la catégorie de produit."
+
+#: views/admin/tabs/bundle-and-save/texts.php:30
+msgid "Product Search Plugin"
+msgstr "Plugin Product Search"
+
+#: views/admin/tabs/bundle-and-save/texts.php:31
+msgid ""
+"Makes the WooCommerce product search more flexible and efficient and gives "
+"the additional search results due to the spell correction. With the help of "
+"this plugin, the products search results within your store will be as "
+"relevant as possible for your potential customers. With our plugin, you no "
+"longer have to create the databases of synonyms and duplicate the words with "
+"common mistakes in the product name or its description."
+msgstr ""
+"Rend la recherche de produits WooCommerce plus flexible et efficace et donne "
+"les résultats de recherche supplémentaires en raison de la correction "
+"orthographique. Avec l'aide de ce plugin, les résultats de recherche de "
+"produits dans votre boutique seront aussi pertinents que possible pour vos "
+"clients potentiels. Avec notre plugin, vous n'avez plus à créer les bases de "
+"données de synonymes et à dupliquer les mots comportant des erreurs "
+"courantes dans le nom du produit ou sa description."
+
+#: views/admin/tabs/bundle-and-save/texts.php:43
+#, php-format
+msgid ""
+"The Premmerce bundle consists of interchangeably combined plugins to\n"
+"                    ensure you’re getting the whole package. Each one of our "
+"most popular plugins performs smoothly on\n"
+"                    its own and works wonders when paired with the other "
+"ones. From “clean” links and well-thought-out\n"
+"                    filter widgets to displaying the product variation data "
+"right on the category page and actualizing\n"
+"                    search results, we’ve got you covered. All of it and "
+"everything in between (bulk-generated landing\n"
+"                    pages and spell correction, to name just a few) makes up "
+"for the full-fledged toolkit for high SEO\n"
+"                    rankings, advanced search and filter management in "
+"categories. And you can transform your online\n"
+"                    shop for more than 50% less compared to acquiring the "
+"plugins separately."
+msgstr ""
+"L'offre groupée Premmerce se compose de plugins combinés de manière "
+"interchangeable afin de\n"
+"                    vous garantir un service complet. Chacun de nos plugins "
+"les plus populaires fonctionne parfaitement\n"
+"                    seul et fait des merveilles lorsqu'il est associé à "
+"d'autres. Qu'il s'agisse de liens \"\"propres\"\", de widgets\n"
+"                    de filtrage bien pensés, de l'affichage des données de "
+"variation des produits directement sur la page\n"
+"                    de la catégorie ou de l'actualisation des résultats de "
+"recherche, nous avons tout ce qu'il vous faut.\n"
+"                    Tout cela, et tout ce qu'il y a entre les deux (pages "
+"d'atterrissage générées en masseet correction\n"
+"                    orthographique, pour ne citer que quelques exemples), "
+"constitue une boîte à outils complète pour\n"
+"                    des classements SEO élevés, une recherche avancée et une "
+"gestion des filtres dans les catégories.\n"
+"                    Et vous pouvez transformer votre boutique en ligne pour "
+"plus de 50% de moins par rapport\n"
+"                    à l'acquisition des plugins séparément."
+
+#: views/admin/tabs/bundle-and-save/texts.php:70
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: views/admin/tabs/bundle-and-save/thanks.php:14
+msgid "to our"
+msgstr "à notre"
+
+#: views/admin/tabs/bundle-and-save/thanks.php:15
+msgid "active users for 5 star"
+msgstr "utilisateurs actifs pour 5 étoiles"
+
+#: views/admin/tabs/bundle-and-save/thanks.php:23
+msgid "reviews on"
+msgstr "critiques sur"
+
+#: views/admin/tabs/settings.php:10
+msgid ""
+"WooCommerce Permalink Manager offers you the ability to create a custom URL "
+"structure for your permalinks. Custom URL structures can improve the "
+"aesthetics, usability, and forward-compatibility of your links. A number of "
+"settings are available, and here are some examples to get you started."
+msgstr ""
+"WooCommerce Permalink Manager vous offre la possibilité de créer une "
+"structure URL personnalisée pour vos permaliens. Les structures d'URL "
+"personnalisées peuvent améliorer l'esthétique, la convivialité et la "
+"compatibilité avec l'avenir de vos liens. Un certain nombre de paramètres "
+"sont disponibles, et voici quelques exemples pour vous aider à démarrer."

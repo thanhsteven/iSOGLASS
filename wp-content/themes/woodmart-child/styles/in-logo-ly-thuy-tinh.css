@@ -1,0 +1,9 @@
+.in-logo-ly-thuy-tinh-long-content ul {
+	list-style: disc;
+}
+
+@media screen and (max-width: 600px) {
+	.in-logo-ly-thuy-tinh-long-content {
+		text-align: justify;
+	}
+}

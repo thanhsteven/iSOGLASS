@@ -1,0 +1,29 @@
+@media screen and (min-width: 1025px) {
+	.title-size-small {
+		margin-top: 20px;
+	}
+    .elementor-widget-wd_mega_menu .widget_nav_mega_menu .menu-item-type-taxonomy .woodmart-nav-link img {
+        border-radius: 4px;
+    }
+    /* --> Page Categories - Chai & Ly thuỷ tinh <-- */
+    .thanh-page-categories-chai-ly-thuy-tinh .owl-stage {
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .thanh-page-categories-chai-ly-thuy-tinh .category-grid-item .hover-mask {
+        width: 100%;
+        bottom: 0;
+        left: 0;
+    }
+    .thanh-page-categories-chai-ly-thuy-tinh .cat-design-default .more-products,
+    .thanh-page-categories-chai-ly-thuy-tinh .category-grid-item .wd-entities-title {
+        background-color: #333;
+        opacity: 0.8;
+        color: #fff;
+        text-transform: initial;
+        font-weight: 500;
+        padding: 10px;
+        margin-top: 0px;
+        width: 100%;
+    }
+}

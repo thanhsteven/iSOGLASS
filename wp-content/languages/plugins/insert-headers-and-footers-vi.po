@@ -1,0 +1,23 @@
+# Translation of Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-30 14:38:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release)\n"
+
+#: includes/admin/class-wpcode-admin-page-loader.php:199
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:52
+#: includes/class-wpcode-admin-bar-info.php:378
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:290
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:86
+msgid "Settings Saved."
+msgstr "Đã lưu thiết lập"
